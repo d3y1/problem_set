@@ -3,7 +3,13 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <algolia-id>E0T2EHZVAY</algolia-id>
+        <algolia-index>PROBLEM_SET_INDEX</algolia-index>
+        <algolia-api-key>220a351c78d76844b73f575fafca9acd</algolia-api-key>
+        <algolia-show-logo>true</algolia-show-logo>
+    </variables>
+
     <build-profile instance="problem_set">
         <variables>
             <noindex-content>true</noindex-content>
