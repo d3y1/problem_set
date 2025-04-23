@@ -61,8 +61,3 @@ Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut
 Please report any issues, usability improvements, or feature requests to our
 <a href="https://youtrack.jetbrains.com/newIssue?project=WRS">YouTrack project</a>
 (you will need to register).
-
-You are welcome to join our
-<a href="https://jb.gg/WRS_Slack">public Slack workspace</a>.
-Before you do, please read our [Code of conduct](https://www.jetbrains.com/help/writerside/writerside-code-of-conduct.html).
-We assume that you’ve read and acknowledged it before joining.
