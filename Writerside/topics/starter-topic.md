@@ -66,5 +66,3 @@ You are welcome to join our
 <a href="https://jb.gg/WRS_Slack">public Slack workspace</a>.
 Before you do, please read our [Code of conduct](https://www.jetbrains.com/help/writerside/writerside-code-of-conduct.html).
 We assume that you’ve read and acknowledged it before joining.
-
-You can also always email us at [writerside@jetbrains.com](mailto:writerside@jetbrains.com).
