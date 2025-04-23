@@ -10,8 +10,8 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/hi'
-  DOCKER_VERSION: '243.22562'
+  INSTANCE: 'Writerside/problem_set'
+  DOCKER_VERSION: '2025.04.8412'
 # IS_GROUP: 'true'  # Uncomment to build a group
 
 jobs:
