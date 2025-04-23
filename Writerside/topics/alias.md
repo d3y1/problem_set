@@ -32,4 +32,3 @@ setproxy -> 设置代理
 disproxy -> 取消代理
 ghgt -> 推送到 github & gitee
 ```
-
